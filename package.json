@@ -1,0 +1,26 @@
+{
+  "name": "wake-window-estimator",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "next": "14.2.5",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.2.52",
+    "@types/react-dom": "^18.2.19",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.2.5",
+    "typescript": "^5.4.5"
+  }
+}
